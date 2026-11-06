@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Face Liveness and Recognition</title>
+  <desc id="desc">AWS portfolio proof of concept. Abstract face framing marks connect to a cloud service symbol on a dark blue background.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101e31"/><stop offset="1" stop-color="#192f48"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#29435e" stroke-width=".6"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <rect x="730" width="470" height="320" fill="url(#grid)" opacity=".65"/>
+  <rect x="48" y="48" width="5" height="24" rx="2" fill="#ffad42"/>
+  <text x="68" y="66" font-family="Arial, sans-serif" font-size="16" letter-spacing="3" fill="#ffbd69">AWS CLOUD / PROOF OF CONCEPT</text>
+  <text x="48" y="137" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#fff">Face Liveness</text>
+  <text x="48" y="192" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#fff">&amp; Recognition</text>
+  <text x="50" y="244" font-family="Arial, sans-serif" font-size="19" fill="#b5c9de">Amazon Rekognition · Python · Cloud architecture</text>
+  <path d="M804 102V78h25 M911 78h25v24 M804 217v25h25 M911 242h25v-25" fill="none" stroke="#63d5cd" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="870" cy="137" rx="32" ry="39" fill="none" stroke="#c0e7eb" stroke-width="3"/>
+  <path d="M823 215q4-42 47-42t47 42" fill="none" stroke="#c0e7eb" stroke-width="3"/>
+  <path d="M947 160h40" stroke="#ffad42" stroke-width="3" stroke-dasharray="5 6"/>
+  <path d="M1020 186h73a25 25 0 0 0 2-50 37 37 0 0 0-69-5 28 28 0 0 0-6 55Z" fill="#213b56" stroke="#ffad42" stroke-width="3"/>
+  <text x="1017" y="166" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#ffcc86">AWS</text>
+  <text x="804" y="278" font-family="Arial, sans-serif" font-size="13" letter-spacing="2" fill="#8caac7">CAPTURE / ANALYZE / COMPARE</text>
+</svg>

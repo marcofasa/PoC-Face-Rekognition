@@ -1,0 +1,35 @@
+# Local environments and developer tooling
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+.DS_Store
+
+# Credentials, local configuration and runtime output
+.env
+.env.*
+.aws/
+credentials
+*.pem
+*.key
+*.log
+*.out
+
+# Biometric inputs, recordings and exported private material
+photo.jpg
+data/
+private/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.mov
+*.zip
+*.docx
+*.pptx
+*.xlsx
+*.drawio
+*.excalidraw
