@@ -128,4 +128,4 @@ Live calls may incur charges. Liveness checks and face comparison have separate 
 
 ---
 
-**Frozen snapshot:** [`portfolio-v1.0.0`](https://github.com/marcofasa/PoC-Face-Rekognition/tree/portfolio-v1.0.0) · AWS service integration and cloud architecture exploration
+**Frozen snapshot:** [`portfolio-v1.0.1`](https://github.com/marcofasa/PoC-Face-Rekognition/tree/portfolio-v1.0.1) · AWS service integration and cloud architecture exploration
